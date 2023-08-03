@@ -1,15 +1,15 @@
 # LayoutLM_label
 
-Prerequisite
+# Prerequisite
 install tesseract on your device
 python 3.10
 
 
-Install
+# Install
 
 pip install -r requirements.txt
 
-Run
+# Run
 
 python src/main.py
 
