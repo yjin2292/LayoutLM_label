@@ -2,6 +2,7 @@
 
 # Prerequisite
 install tesseract on your device
+
 python 3.10
 
 
